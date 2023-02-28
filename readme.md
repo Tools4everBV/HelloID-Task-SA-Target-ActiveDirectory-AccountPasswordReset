@@ -8,7 +8,7 @@
 
 ## Description
 
-This code snippet will administratively reset the pasword a user within Active Directory and executes the following tasks:
+This code snippet will administratively reset the password a user within Active Directory and executes the following tasks:
 
 1. Define a hash table `$formObject`. The keys of the hash table represent the properties required for the execution of the password reset task, while the values represent the values entered in the form.
 
